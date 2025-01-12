@@ -1,13 +1,12 @@
-<h1>I am Karan Salvi a Full Stack Developer.Having great knowledge in MERN stack and Next.js.</h1>
+<h1>Hii, I am Karan Salvi a Full Stack Developer. Having great knowledge in MERN stack and Next.js.</h1>
+
+## Demo
+Check out the live demo of the project here: [View Demo](https://portfoliokaransalvi.netlify.app/)
+
+
+
 <p>Demo Images of the PortFolio  :<p/>
-
-
-
-
-
-
-
-
+<br/>
 
 ![Screenshot 2025-01-02 123942](https://github.com/user-attachments/assets/e7969363-03fa-4441-add4-3f7e4d380789)
 <br/>
